@@ -10,5 +10,19 @@
         "name": "James"
     },
     "items": [
+        {
+            "id": "https://gamesfinkel.github.io/gh-pages/post/",
+            "url": "https://gamesfinkel.github.io/gh-pages/post/",
+            "title": "Post",
+            "summary": "Testing!",
+            "content_html": "<p>Testing!</p>",
+            "author": {
+                "name": "James"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-14T19:04:07-04:00",
+            "date_modified": "2025-03-14T19:04:07-04:00"
+        }
     ]
 }
