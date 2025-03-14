@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gamesfinkel.github.io/gh-pages/sitemap.xml

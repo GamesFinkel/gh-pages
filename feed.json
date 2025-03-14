@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Stay Home Games",
+    "description": "",
+    "home_page_url": "https://gamesfinkel.github.io/gh-pages",
+    "feed_url": "https://gamesfinkel.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://gamesfinkel.github.io/gh-pages/media/website/StayAtHomeGames_LogoFull.png",
+    "author": {
+        "name": "James"
+    },
+    "items": [
+    ]
+}
